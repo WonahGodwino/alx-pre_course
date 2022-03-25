@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ALX School is so cool!
 =======
 ALX School
@@ -8,3 +9,7 @@ ALX School
 #!/bin/bash
 echo "ALX School is cool!"
 >>>>>>> update_script
+=======
+#!/bin/bash
+ALX School is cool!
+>>>>>>> ace41c62b7d11bf632203f1197eb1a2df72d17bc
